@@ -1,0 +1,397 @@
+[33mcommit 693daba3622323d6d41c8304e14a4b9ff6e90ecf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Junmo <didwnsah@gmail.com>
+Date:   Thu Apr 21 16:20:40 2022 +0900
+
+    commit
+
+[33mcommit a891af9fca343ad3b2db081625d4f83e839f4328[m
+Author: Junmo <didwnsah@gmail.com>
+Date:   Thu Apr 21 11:24:44 2022 +0900
+
+    metabase
+
+[33mcommit b64a1c9a8dcec4f54d2df2466f8705c8aa764718[m
+Author: Junmo <didwnsah@gmail.com>
+Date:   Thu Apr 21 00:42:50 2022 +0900
+
+    proj
+
+[33mcommit e37f0ecbf812c46e325c848b86edd19451d759c8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Mon Jun 7 00:44:54 2021 +0900
+
+    Update README.md
+
+[33mcommit e79a37b2df969e99425858d2f1aa0df79e54503c[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Mon Jun 7 00:44:38 2021 +0900
+
+    Update README.md
+
+[33mcommit ddb3dceea08b5703b151b92f8916c768c335063a[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Tue May 18 18:55:47 2021 +0900
+
+    Update README.md
+
+[33mcommit 9d812e2ba30e214e5ecc769006c583e497f21e01[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Wed May 12 21:45:08 2021 +0900
+
+    Update README.md
+
+[33mcommit 108c3c494a730e20016c8eb6be1983979ef5ab5e[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Wed May 12 21:44:36 2021 +0900
+
+    Update README.md
+
+[33mcommit b979170102b02c593e865fb26521c44dde67fea1[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Tue May 4 21:47:09 2021 +0900
+
+    add import re
+
+[33mcommit 0bc22780a8f88899a5689650536fa38b1131edb2[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Tue May 4 21:47:00 2021 +0900
+
+    remove text_normalize
+
+[33mcommit ed75f21ab5cc6925642490b25c876de24e354bfd[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Tue May 4 21:46:42 2021 +0900
+
+    add user reivew max count
+
+[33mcommit ec5bc48a2cf1d86f57237816f66afd647d8b7888[m
+Merge: 57ca41a c2450a5
+Author: chungchung <hangjastar@gmail.com>
+Date:   Tue May 4 21:46:11 2021 +0900
+
+    Merge branch 'main' of https://github.com/piaochung/naver_movie_scrap into main
+
+[33mcommit 57ca41a6a2b78cbebfbed1f7d497b01b3906a753[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Tue May 4 21:46:09 2021 +0900
+
+    add movie_id
+
+[33mcommit c2450a5d19a0697bc7d78555bd4c06cfca62e299[m
+Merge: c7ac351 0ac67a1
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sun May 2 12:32:00 2021 +0900
+
+    Merge pull request #1 from piaochung/add-license-1
+    
+    Create LICENSE
+
+[33mcommit c7ac351ba0f142acd63898e7451140030969e9a2[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sun May 2 12:30:55 2021 +0900
+
+    Create LICENSE
+
+[33mcommit 0ac67a1f2d9d2b8883dcb954faf364458a323efa[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sun May 2 12:29:52 2021 +0900
+
+    Create LICENSE
+
+[33mcommit d0789cd818a897fcbd97b88460b359707995a81a[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 22:31:09 2021 +0900
+
+    import math
+
+[33mcommit 17cd14f7a6afa3cd9b3bcf3cb6ad60d3a9f8691a[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 22:13:34 2021 +0900
+
+    update get_text()
+
+[33mcommit 1d3b5dc34a18290d889c2376a137632a520bdd94[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 22:13:16 2021 +0900
+
+    fix loop bug
+
+[33mcommit 86004647ade118ba7821651c0ac828896700f645[m
+Merge: 094f08d 0e0d6d6
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 20:13:40 2021 +0900
+
+    Merge branch 'main' of https://github.com/piaochung/naver_movie_scrap into main
+
+[33mcommit 094f08d24240b0ee358475cf8ca2d3ae72721853[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 20:13:38 2021 +0900
+
+    결과에 sword 추가
+
+[33mcommit 0e0d6d6eaffbfd8a567c27ebe0994dda5103b251[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat May 1 19:49:26 2021 +0900
+
+    Update README.md
+
+[33mcommit f554a9e1864f238265b8a5d39bd9dcad37d19a3f[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat May 1 19:48:26 2021 +0900
+
+    Update README.md
+
+[33mcommit 42840e94be8e5fc56cb684d06fede0ea00901bee[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat May 1 19:43:04 2021 +0900
+
+    Update README.md
+
+[33mcommit e3041e680782f4b3044ed1df208630bdce1156c6[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 19:32:10 2021 +0900
+
+    set default value
+
+[33mcommit 71d5bf1b7ff3942f8592f7ae9d896118ec63ad1a[m
+Merge: 4054a51 fea5c0d
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 19:31:42 2021 +0900
+
+    Merge branch 'main' of https://github.com/piaochung/naver_movie_scrap into main
+
+[33mcommit 4054a51e903db0bb7efcc8d84059892e3cca542f[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 19:31:40 2021 +0900
+
+    set default value
+
+[33mcommit fea5c0dc9ade15b37fefc6f4885c04623a8c543a[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat May 1 18:55:36 2021 +0900
+
+    Update README.md
+
+[33mcommit d815096d69b26778e70e5be58b4f78302669500e[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 18:44:34 2021 +0900
+
+    update user_sword_scrap.py
+
+[33mcommit 1264b9da94da620be8eb72c1ccaa6636b5d2d996[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 18:44:17 2021 +0900
+
+    update user_review_info_scrap.py
+
+[33mcommit 50876a03492b17ac02110a42814cc8b62a637001[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 18:42:40 2021 +0900
+
+    Create user_review_scrap.py
+
+[33mcommit 6bb6e273afb07e4758bfc0afd8f521f1b546c2d1[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 18:42:34 2021 +0900
+
+    Create user_sword_scrap.py
+
+[33mcommit 55fbf2fca0c51b10d480f576a02743740facad18[m
+Merge: 09f0ec4 3f269ac
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 18:42:03 2021 +0900
+
+    Merge branch 'main' of https://github.com/piaochung/naver_movie_scrap into main
+
+[33mcommit 09f0ec47ea79336c55b6f956737c9319710b531c[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat May 1 18:41:59 2021 +0900
+
+    add clean_text
+
+[33mcommit 3f269acb0d9b71c49d4cf0edd26b93a19d310e87[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat Apr 17 14:24:07 2021 +0900
+
+    Update README.md
+
+[33mcommit 28ebcd4fe2ad76b6acfbf6b235ece9b42d091e92[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat Apr 17 13:51:08 2021 +0900
+
+    Update README.md
+
+[33mcommit 7b45623da6ae94e6d3836c9d3f115acc0710e5b4[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat Apr 17 10:56:34 2021 +0900
+
+    Update review_scrap.py
+
+[33mcommit 44831a4853a8f019eeeeae13121024a4c41be13d[m
+Merge: 11d70bf 8d3fd17
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat Apr 17 10:51:16 2021 +0900
+
+    Merge branch 'main' of https://github.com/piaochung/naver_movie_scrap into main
+
+[33mcommit 11d70bf55493b586db4c5796036f22a194fe228f[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Sat Apr 17 10:51:03 2021 +0900
+
+    add get method
+
+[33mcommit 8d3fd17c3704062c152120f3e1413e2d79283a19[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat Apr 17 10:50:07 2021 +0900
+
+    Create README.md
+
+[33mcommit 690969e8f8b3899d6ef7b8b6ccfe90d4bc6171b8[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat Apr 17 10:50:00 2021 +0900
+
+    Update README.md
+
+[33mcommit 454ef6dbb2cf0dd9d0a5e1945cde7af79bf0aec2[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat Apr 17 10:49:46 2021 +0900
+
+    Update README.md
+
+[33mcommit 012659d7c8060688dbcd7a604dc13744bfca9c29[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat Apr 17 10:48:16 2021 +0900
+
+    Update README.md
+
+[33mcommit a3a104161c2772563752d16e4756145f3e90f592[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat Apr 17 10:47:14 2021 +0900
+
+    Update README.md
+
+[33mcommit be917c1c61e59c2e9d97ad414c4ce2aad9eaa4b5[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Sat Apr 17 00:27:20 2021 +0900
+
+    Update README.md
+
+[33mcommit 52c34711082f46712f7368b31639b636748b5529[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 22:11:17 2021 +0900
+
+    Update review_scrap.py
+
+[33mcommit cd3455ad2d3264fc8ce0913792414537e5991bbf[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 22:09:24 2021 +0900
+
+    Update review_scrap.py
+
+[33mcommit de722c04319664a1911f068d7e63a6aeb208fa62[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 22:05:35 2021 +0900
+
+    Update review_scrap.py
+
+[33mcommit 7ec8cd7c4b0c46b5ffdbbc72c0e2abe8ec60181c[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 22:01:52 2021 +0900
+
+    Update review_scrap.py
+
+[33mcommit 0412a9d74fd5b57ee49416174840656d8b8809ce[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 21:57:24 2021 +0900
+
+    add spoiler selector
+
+[33mcommit acd44d9e5220464f6acae7e2d25bf6fe3c48a738[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 20:34:42 2021 +0900
+
+    Update movie_scrap.py
+
+[33mcommit b24214cbf30ae3bcb7420b4c8749539430c7b8fb[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 20:30:38 2021 +0900
+
+    update method name
+
+[33mcommit 0eb71c8f20ebc39f140df2b0e1fd18496e649c28[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 20:30:25 2021 +0900
+
+    add exception message
+
+[33mcommit 40eaf3d671ce192ccca09da0c3965e0b747e0bd7[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 20:28:00 2021 +0900
+
+    add bs4 module
+
+[33mcommit 614e8d582231f1248da90ff73e66da3a48863ca7[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 20:21:46 2021 +0900
+
+    Update movie_scrap.py
+
+[33mcommit 71427c8dbcd527cf6eaa9034b7d1c1b6e419b8d8[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 20:17:48 2021 +0900
+
+    modify module name
+
+[33mcommit d6e396acbf37341d8c83eed355238523faed8a76[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 20:16:12 2021 +0900
+
+    change module name
+
+[33mcommit 0f264760c064fb65dc6ea7b969bcc9718fe1edea[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 19:59:00 2021 +0900
+
+    add exception message
+
+[33mcommit 56df70744feec0408860e2f9a15f5151d2dfdefe[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 19:43:00 2021 +0900
+
+    change scrap_basic to get_movie_data
+
+[33mcommit f2f299b5dae879276a761e79cff06f93b772599c[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 19:40:47 2021 +0900
+
+    confirm error
+
+[33mcommit c54c9900fb1f82e5ac46e99e266312676ecdc4d5[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 19:33:03 2021 +0900
+
+    make __init__ method
+
+[33mcommit be4f33f431c0bc77ef04633353fec19230f9bf7e[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 19:30:19 2021 +0900
+
+    fix story bug
+
+[33mcommit b079bdf26ee07bfb98887c4ed25be360b49922a4[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 19:20:22 2021 +0900
+
+    modify module
+
+[33mcommit f31e67498a9c20664d3c90c7593aab995e9247dc[m
+Author: chungchung <hangjastar@gmail.com>
+Date:   Fri Apr 16 19:11:36 2021 +0900
+
+    upload movie_scrap and review_scrap
+
+[33mcommit 5dc87ba58c725a0246281f2b4e85e9bfea7f7b86[m
+Author: chungchung <61677941+piaochung@users.noreply.github.com>
+Date:   Fri Apr 16 19:09:39 2021 +0900
+
+    Initial commit

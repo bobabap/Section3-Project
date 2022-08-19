@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="kr">
+<head>
+    <meta charset="UTF-8">
+    <h1> {{name}} 영화를 본 유저의 추천! </h1>
+</head>
+<style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    div {text-align: center;}
+    </style>
+<body>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">-</th>
+            <th scope="col">영화</th>
+            <th scope="col">장르</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td> {{result[0]['Title']}} </td>
+            <td> {{result[0]['Genre']}} </td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td> {{result[1]['Title']}} </td>
+            <td> {{result[1]['Genre']}} </td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td> {{result[2]['Title']}} </td>
+            <td> {{result[2]['Genre']}} </td>
+          </tr>
+          <tr>
+            <th scope="row">4</th>
+            <td> {{result[3]['Title']}} </td>
+            <td> {{result[3]['Genre']}} </td>
+          </tr>
+          <tr>
+            <th scope="row">5</th>
+            <td> {{result[4]['Title']}} </td>
+            <td> {{result[4]['Genre']}} </td>
+          </tr>
+        </tbody>
+      </table>
+      <style>
+      table {
+        width:70%; 
+        margin-left:15%; 
+        margin-right:15%;
+    }
+    
+    table, td, th {
+        border-collapse : collapse;
+        border : 1px solid black;
+    };
+        </style>
+</body>
+</html>
+
+
+
+
