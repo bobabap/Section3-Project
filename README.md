@@ -35,4 +35,8 @@ def pearsonR(s1, s2):
 
 웹사이트 구현은 완성하지 못했지만 좋아하는 영화를 입력했을 때
 
-영화 5가지를 추천해준다.
+영화와 그 영화의 장르를 보여준다.
+
+input = 타이타닉
+output = ![image](https://user-images.githubusercontent.com/87513112/201476305-a345c05b-6c54-49a5-a425-6b596d3c77d2.png)
+
